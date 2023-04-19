@@ -1,16 +1,33 @@
-### Hi there 👋
+### Bilgi 📌
 
-<!--
-**sistemkodlama/sistemkodlama** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<b><i> Bu hesap [sistemkodlama.com](https://sistemkodlama.com/) sitesindeki yazıları destekleyen alıştırma ve uygulamaları içermektedir. </i></b>
 
-Here are some ideas to get you started:
+🚩 Tüm repo 'ların listesi aşağıda belirtilmiştir.  
+  
+  
+|Diller |Link|
+|-----|--------|
+|C++  |https://github.com/sistemkodlama/Cpp       |
+|Java |https://github.com/sistemkodlama/Java      |
+|Python |https://github.com/sistemkodlama/Python      |
+|Dlang |https://github.com/sistemkodlama/Dlang      |
+|Rust |https://github.com/sistemkodlama/Rust      |
+|Golang |https://github.com/sistemkodlama/Golang      |
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+|Kütüphaneler |Link|
+|-----|--------|
+|Qt   |https://github.com/sistemkodlama/Qt       |
+|GTK+ |https://github.com/sistemkodlama/GTK      |
+|JavaFX   |https://github.com/sistemkodlama/JavaFX       |
+|SFML   |https://github.com/sistemkodlama/SFML       |
+|Boost   |https://github.com/sistemkodlama/Boost       |
+
+
+|Diğer |Link|
+|-----|--------|
+|Design Patterns  | https://github.com/sistemkodlama/DesignPatterns        |
+|Network Programalama | https://github.com/sistemkodlama/NetworkProgramming       |
+
+
+📫 Hatalı olduğunu düşündüğünüz kısımları pull request oluşturarak iletebilirsiniz ...
+
