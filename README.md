@@ -27,6 +27,8 @@
 |-----|--------|
 |Design Patterns  | https://github.com/sistemkodlama/DesignPatterns        |
 |Network Programalama | https://github.com/sistemkodlama/NetworkProgramming       |
+|CMake| https://github.com/sistemkodlama/CMake       |
+|Meson| https://github.com/sistemkodlama/Meson       |
 
 
 📫 Hatalı olduğunu düşündüğünüz kısımları pull request oluşturarak iletebilirsiniz ...
