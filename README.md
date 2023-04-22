@@ -7,6 +7,7 @@
   
 |Diller |Link|
 |-----|--------|
+|C    |https://github.com/sistemkodlama/C         |
 |C++  |https://github.com/sistemkodlama/Cpp       |
 |Java |https://github.com/sistemkodlama/Java      |
 |Python |https://github.com/sistemkodlama/Python      |
